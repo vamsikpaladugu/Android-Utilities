@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Utilities</string>
+    <string name="pref_key_user_name">pref_key_user_name</string>
+</resources>
