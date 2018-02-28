@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
 import com.vamsi.androidutilities.utils.DeviceUtilities;
+import com.vamsi.androidutilities.utils.InstallParams;
 import com.vamsi.androidutilities.utils.LogUtilities;
 import com.vamsi.androidutilities.utils.PrefUtilities;
 
